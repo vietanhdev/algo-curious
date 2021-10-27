@@ -1,11 +1,11 @@
 ---
 title: "[MOOC] Apollo Lesson 3: Localization"
 thumbnail: "/posts/apollo-sdc-lesson-3-localization/apollo.jpg"
-discussionId: "/posts/apollo-sdc-lesson-3-localization/"
+discussionId: "/apollo-sdc-lesson-3-localization/"
 date: 2021-01-27
 toc: true
 draft: false
-slug: "/posts/apollo-sdc-lesson-3-localization/"
+slug: "/apollo-sdc-lesson-3-localization/"
 categories: ["Self-Driving Cars"]
 tags: ["Computer Vision", "Apollo"]
 description: "My note for lesson 3 of MOOC course: Self-Driving Fundamentals - Featuring Apollo. Content: How the vehicle localizes itself with a single-digit-centimeter-level accuracy."

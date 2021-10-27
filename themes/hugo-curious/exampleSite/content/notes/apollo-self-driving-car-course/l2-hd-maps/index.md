@@ -1,11 +1,11 @@
 ---
 title: "[MOOC] Apollo Lesson 2: HD Maps"
 thumbnail: "/posts/apollo-sdc-lesson-2-hd-maps/apollo.jpg"
-discussionId: "/posts/apollo-sdc-lesson-2-hd-maps/"
+discussionId: "/apollo-sdc-lesson-2-hd-maps/"
 date: 2021-01-26
 toc: true
 draft: false
-slug: "/posts/apollo-sdc-lesson-2-hd-maps/"
+slug: "/apollo-sdc-lesson-2-hd-maps/"
 categories: ["Self-Driving Cars"]
 tags: ["Computer Vision", "Apollo"]
 description: "My note for lesson 2 of MOOC course: Self-Driving Fundamentals - Featuring Apollo. Content: High Definition maps for self driving cars."

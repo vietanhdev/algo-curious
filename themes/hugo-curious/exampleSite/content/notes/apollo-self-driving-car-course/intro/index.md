@@ -1,11 +1,11 @@
 ---
 title: "[MOOC] Apollo Lessons on Self-Driving Cars"
 thumbnail: "/posts/apollo-sdc-lessons-intro/apollo.jpg"
-discussionId: "/posts/apollo-sdc-lessons-intro/"
+discussionId: "/apollo-sdc-lessons-intro/"
 date: 2021-02-04
 toc: true
 draft: false
-slug: "/posts/apollo-sdc-lessons-intro/"
+slug: "/apollo-sdc-lessons-intro/"
 categories: ["Self-Driving Cars"]
 tags: ["Computer Vision", "Apollo"]
 description: "I've just completed one more MOOC course - Self-Driving Fundamentals - Featuring Apollo. Content: This note link add my lesson notes for the course lectures."

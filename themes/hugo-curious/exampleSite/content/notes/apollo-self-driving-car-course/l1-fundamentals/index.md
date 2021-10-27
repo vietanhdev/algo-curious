@@ -1,11 +1,11 @@
 ---
 title: "[MOOC] Apollo Lesson 1: SDC Fundamentals"
 thumbnail: "/posts/apollo-sdc-lesson-1-fundamentals/apollo.jpg"
-discussionId: "/posts/apollo-sdc-lesson-1-fundamentals/"
+discussionId: "/apollo-sdc-lesson-1-fundamentals/"
 date: 2021-01-25
 toc: true
 draft: false
-slug: "/posts/apollo-sdc-lesson-1-fundamentals/"
+slug: "/apollo-sdc-lesson-1-fundamentals/"
 categories: ["Self-Driving Cars"]
 tags: ["Computer Vision", "Apollo"]
 description: "My note for lesson 1 of MOOC course: Self-Driving Fundamentals - Featuring Apollo. Content: Identify the key parts of self-driving cars. The Apollo team and architecture."
