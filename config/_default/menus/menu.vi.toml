@@ -1,0 +1,9 @@
+[[main]]
+  name = "Trang chủ"
+  url = ""
+  weight = 10
+
+[[main]]
+  name = "Giới thiệu"
+  url = "/about/"
+  weight = 43
