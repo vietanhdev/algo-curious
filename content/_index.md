@@ -16,217 +16,217 @@ Giải thuật, cấu trúc dữ liệu cho competitive programming bằng tiế
 ## Đại số
 
 - **Fundamentals**
-    - [Binary Exponentiation](/posts/algebra/binary-exp)
-    - [Euclidean algorithm for computing the greatest common divisor](/posts/algebra/euclid-algorithm)
-    - [Extended Euclidean Algorithm](/posts/algebra/extended-euclid-algorithm)
-    - [Linear Diophantine Equations](/posts/algebra/linear-diophantine-equation)
-    - [Fibonacci Numbers](/posts/algebra/fibonacci-numbers)
+    - [Binary Exponentiation](/algebra/binary-exp)
+    - [Euclidean algorithm for computing the greatest common divisor](/algebra/euclid-algorithm)
+    - [Extended Euclidean Algorithm](/algebra/extended-euclid-algorithm)
+    - [Linear Diophantine Equations](/algebra/linear-diophantine-equation)
+    - [Fibonacci Numbers](/algebra/fibonacci-numbers)
 - **Prime numbers**
-    - [Sieve of Eratosthenes](/posts/algebra/sieve-of-eratosthenes)
-    - [Sieve of Eratosthenes With Linear Time Complexity](/posts/algebra/prime-sieve-linear)
-    - [Primality tests](/posts/algebra/primality-tests)
-    - [Integer factorization](/posts/algebra/factorization)
+    - [Sieve of Eratosthenes](/algebra/sieve-of-eratosthenes)
+    - [Sieve of Eratosthenes With Linear Time Complexity](/algebra/prime-sieve-linear)
+    - [Primality tests](/algebra/primality-tests)
+    - [Integer factorization](/algebra/factorization)
 - **Number-theoretic functions**
-    - [Euler's totient function](/posts/algebra/phi-function)
-    - [Number of divisors / sum of divisors](/posts/algebra/divisors)
+    - [Euler's totient function](/algebra/phi-function)
+    - [Number of divisors / sum of divisors](/algebra/divisors)
 - **Modular arithmetic**
-    - [Modular Inverse](/posts/algebra/module-inverse)
-    - [Linear Congruence Equation](/posts/algebra/linear-congruence-equation)
-    - [Chinese Remainder Theorem](/posts/algebra/chinese-remainder-theorem)
-    - [Factorial modulo $p$](/posts/algebra/factorial-modulo)
-    - [Discrete Log](/posts/algebra/discrete-log)
-    - [Primitive Root](/posts/algebra/primitive-root)
-    - [Discrete Root](/posts/algebra/discrete-root)
-    - [Montgomery Multiplication](/posts/algebra/montgomery-multiplication)
+    - [Modular Inverse](/algebra/module-inverse)
+    - [Linear Congruence Equation](/algebra/linear-congruence-equation)
+    - [Chinese Remainder Theorem](/algebra/chinese-remainder-theorem)
+    - [Factorial modulo $p$](/algebra/factorial-modulo)
+    - [Discrete Log](/algebra/discrete-log)
+    - [Primitive Root](/algebra/primitive-root)
+    - [Discrete Root](/algebra/discrete-root)
+    - [Montgomery Multiplication](/algebra/montgomery-multiplication)
 - **Number systems**
-    - [Balanced Ternary](/posts/algebra/balanced-ternary)
-    - [Gray code](/posts/algebra/gray-code)
+    - [Balanced Ternary](/algebra/balanced-ternary)
+    - [Gray code](/algebra/gray-code)
 - **Miscellaneous**
-    - [Enumerating submasks of a bitmask](/posts/algebra/all-submasks)
-    - [Arbitrary-Precision Arithmetic](/posts/algebra/big-integer)
-    - [Fast Fourier transform](/posts/algebra/fft)
-    - [Operations on polynomials and series](/posts/algebra/polynomial)
+    - [Enumerating submasks of a bitmask](/algebra/all-submasks)
+    - [Arbitrary-Precision Arithmetic](/algebra/big-integer)
+    - [Fast Fourier transform](/algebra/fft)
+    - [Operations on polynomials and series](/algebra/polynomial)
 
 ## Cấu Trúc Dữ Liệu
 
 - **Fundamentals**
-    - [Minimum Stack / Minimum Queue](/posts/data-structures/stack-queue-modification)
-    - [Sparse Table](/posts/data-structures/sparse-table)
+    - [Minimum Stack / Minimum Queue](/data-structures/stack-queue-modification)
+    - [Sparse Table](/data-structures/sparse-table)
 - **Trees**
-    - [Disjoint Set Union](/posts/data-structures/disjoint-set-union)
-    - [Fenwick Tree](/posts/data-structures/fenwick)
-    - [Sqrt Decomposition](/posts/data-structures/sqrt-decomposition)
-    - [Segment Tree](/posts/data-structures/segment-tree)
-    - [Treap](/posts/data-structures/treap)
-    - [Sqrt Tree](/posts/data-structures/sqrt-tree)
-    - [Randomized Heap](/posts/data-structures/randomized-heap)
+    - [Disjoint Set Union](/data-structures/disjoint-set-union)
+    - [Fenwick Tree](/data-structures/fenwick)
+    - [Sqrt Decomposition](/data-structures/sqrt-decomposition)
+    - [Segment Tree](/data-structures/segment-tree)
+    - [Treap](/data-structures/treap)
+    - [Sqrt Tree](/data-structures/sqrt-tree)
+    - [Randomized Heap](/data-structures/randomized-heap)
 - **Advanced**
-    - [Deleting from a data structure in O(T(n)log n)](/posts/data-structures/deleting-in-log-n)
+    - [Deleting from a data structure in O(T(n)log n)](/data-structures/deleting-in-log-n)
 
 ## Quy Hoạch Động
 
 - **DP optimizations**
-    - [Divide and Conquer DP](/posts/dynamic-programming/divide-and-conquer-dp)
+    - [Divide and Conquer DP](/dynamic-programming/divide-and-conquer-dp)
 - **Tasks**
-    - [Dynamic Programming on Broken Profile. Problem "Parquet"](/posts/dynamic-programming/profile-dynamics)
-    - [Finding the largest zero submatrix](/posts/dynamic-programming/zero-matrix)
+    - [Dynamic Programming on Broken Profile. Problem "Parquet"](/dynamic-programming/profile-dynamics)
+    - [Finding the largest zero submatrix](/dynamic-programming/zero-matrix)
 
 ## Xử Lý Chuỗi
 
 - **Fundamentals**
-    - [String Hashing](/posts/string/string-hashing)
-    - [Rabin-Karp for String Matching](/posts/string/rabin-karp)
-    - [Prefix function - Knuth-Morris-Pratt](/posts/string/prefix-function)
-    - [Z-function](/posts/string/z-function)
-    - [Suffix Array](/posts/string/suffix-array)
-    - [Aho-Corasick algorithm](/posts/string/aho-corasick)
+    - [String Hashing](/string/string-hashing)
+    - [Rabin-Karp for String Matching](/string/rabin-karp)
+    - [Prefix function - Knuth-Morris-Pratt](/string/prefix-function)
+    - [Z-function](/string/z-function)
+    - [Suffix Array](/string/suffix-array)
+    - [Aho-Corasick algorithm](/string/aho-corasick)
 - **Advanced**
-    - [Suffix Tree](/posts/string/suffix-tree-ukkonen)
-    - [Suffix Automaton](/posts/string/suffix-automaton)
-    - [Lyndon factorization](/posts/string/lyndon-factorization)
+    - [Suffix Tree](/string/suffix-tree-ukkonen)
+    - [Suffix Automaton](/string/suffix-automaton)
+    - [Lyndon factorization](/string/lyndon-factorization)
 - **Tasks**
-    - [Expression parsing](/posts/string/expression-parsing)
-    - [Manacher's Algorithm - Finding all sub-palindromes in O(N)](/posts/string/manacher)
-    - [Finding repetitions](/posts/string/main-lorentz)
+    - [Expression parsing](/string/expression-parsing)
+    - [Manacher's Algorithm - Finding all sub-palindromes in O(N)](/string/manacher)
+    - [Finding repetitions](/string/main-lorentz)
 
 ## Đại Số Tuyến Tính
 
 - **Matrices**
-    - [Gauss & System of Linear Equations](/posts/linear-algebra/linear-system-gauss)
-    - [Gauss & Determinant](/posts/linear-algebra/determinant-gauss)
-    - [Kraut & Determinant](/posts/linear-algebra/determinant-kraut)
-    - [Rank of a matrix](/posts/linear-algebra/rank-matrix)
+    - [Gauss & System of Linear Equations](/linear-algebra/linear-system-gauss)
+    - [Gauss & Determinant](/linear-algebra/determinant-gauss)
+    - [Kraut & Determinant](/linear-algebra/determinant-kraut)
+    - [Rank of a matrix](/linear-algebra/rank-matrix)
 
 ## Tổ Hợp
 
 - **Fundamentals**
-    - [Finding Power of Factorial Divisor](/posts/algebra/factorial-divisors)
-    - [Binomial Coefficients](/posts/combinatorics/binomial-coefficients)
-    - [Catalan Numbers](/posts/combinatorics/catalan-numbers)
+    - [Finding Power of Factorial Divisor](/algebra/factorial-divisors)
+    - [Binomial Coefficients](/combinatorics/binomial-coefficients)
+    - [Catalan Numbers](/combinatorics/catalan-numbers)
 - **Techniques**
-    - [The Inclusion-Exclusion Principle](/posts/combinatorics/inclusion-exclusion)
-    - [Burnside's lemma / Pólya enumeration theorem](/posts/combinatorics/burnside)
-    - [Stars and bars](/posts/combinatorics/stars-and-bars)
-    - [Generating all $K$-combinations](/posts/combinatorics/generating-combinations)
+    - [The Inclusion-Exclusion Principle](/combinatorics/inclusion-exclusion)
+    - [Burnside's lemma / Pólya enumeration theorem](/combinatorics/burnside)
+    - [Stars and bars](/combinatorics/stars-and-bars)
+    - [Generating all $K$-combinations](/combinatorics/generating-combinations)
 - **Tasks**
-    - [Placing Bishops on a Chessboard](/posts/combinatorics/bishops-on-chessboard)
-    - [Balanced bracket sequences](/posts/combinatorics/bracket-sequences)
-    - [Counting labeled graphs](/posts/combinatorics/counting-labeled-graphs)
+    - [Placing Bishops on a Chessboard](/combinatorics/bishops-on-chessboard)
+    - [Balanced bracket sequences](/combinatorics/bracket-sequences)
+    - [Counting labeled graphs](/combinatorics/counting-labeled-graphs)
 
 ## Các Phương Pháp Số Học
 
 - **Search**
-    - [Ternary Search](/posts/num-methods/ternary-search)
-    - [Newton's method for finding roots](/posts/num-methods/roots-newton)
+    - [Ternary Search](/num-methods/ternary-search)
+    - [Newton's method for finding roots](/num-methods/roots-newton)
 - **Integration**
-    - [Integration by Simpson's formula](/posts/num-methods/simpson-integration)
+    - [Integration by Simpson's formula](/num-methods/simpson-integration)
 
 ## Hình Học
 
 - **Elementary operations**
-    - [Basic Geometry](/posts/geometry/basic-geometry)
-    - [Finding the equation of a line for a segment](/posts/geometry/segment-to-line)
-    - [Intersection Point of Lines](/posts/geometry/lines-intersection)
-    - [Check if two segments intersect](/posts/geometry/check-segments-intersection)
-    - [Intersection of Segments](/posts/geometry/segments-intersection)
-    - [Circle-Line Intersection](/posts/geometry/circle-line-intersection)
-    - [Circle-Circle Intersection](/posts/geometry/circle-circle-intersection)
-    - [Common tangents to two circles](/posts/geometry/tangents-to-two-circles)
-    - [Length of the union of segments](/posts/geometry/length-of-segments-union)
+    - [Basic Geometry](/geometry/basic-geometry)
+    - [Finding the equation of a line for a segment](/geometry/segment-to-line)
+    - [Intersection Point of Lines](/geometry/lines-intersection)
+    - [Check if two segments intersect](/geometry/check-segments-intersection)
+    - [Intersection of Segments](/geometry/segments-intersection)
+    - [Circle-Line Intersection](/geometry/circle-line-intersection)
+    - [Circle-Circle Intersection](/geometry/circle-circle-intersection)
+    - [Common tangents to two circles](/geometry/tangents-to-two-circles)
+    - [Length of the union of segments](/geometry/length-of-segments-union)
 - **Polygons**
-    - [Oriented area of a triangle](/posts/geometry/oriented-triangle-area)
-    - [Area of simple polygon](/posts/geometry/area-of-simple-polygon)
-    - [Check if points belong to the convex polygon in O(log N)](/posts/geometry/point-in-convex-polygon)
-    - [Minkowski sum of convex polygons](/posts/geometry/minkowski)
-    - [Pick's Theorem - area of lattice polygons](/posts/geometry/picks-theorem)
-    - [Lattice points of non-lattice polygon](/posts/geometry/lattice-points)
+    - [Oriented area of a triangle](/geometry/oriented-triangle-area)
+    - [Area of simple polygon](/geometry/area-of-simple-polygon)
+    - [Check if points belong to the convex polygon in O(log N)](/geometry/point-in-convex-polygon)
+    - [Minkowski sum of convex polygons](/geometry/minkowski)
+    - [Pick's Theorem - area of lattice polygons](/geometry/picks-theorem)
+    - [Lattice points of non-lattice polygon](/geometry/lattice-points)
 - **Convex hull**
-    - [Convex hull construction](/posts/geometry/convex-hull)
-    - [Convex hull trick and Li Chao tree](/posts/geometry/convex-hull-trick)
+    - [Convex hull construction](/geometry/convex-hull)
+    - [Convex hull trick and Li Chao tree](/geometry/convex-hull-trick)
 - **Sweep-line**
-    - [Search for a pair of intersecting segments](/posts/geometry/intersecting-segments)
-    - [Point location in O(log N)](/posts/geometry/point-location)
+    - [Search for a pair of intersecting segments](/geometry/intersecting-segments)
+    - [Point location in O(log N)](/geometry/point-location)
 - **Miscellaneous**
-    - [Finding the nearest pair of points](/posts/geometry/nearest-points)
-    - [Delaunay triangulation and Voronoi diagram](/posts/geometry/delaunay)
-    - [Vertical decomposition](/posts/geometry/vertical-decomposition)
-    - [Half-plane intersection - S&I Algorithm in O(Nlog N)](/posts/geometry/halfplane-intersection)
+    - [Finding the nearest pair of points](/geometry/nearest-points)
+    - [Delaunay triangulation and Voronoi diagram](/geometry/delaunay)
+    - [Vertical decomposition](/geometry/vertical-decomposition)
+    - [Half-plane intersection - S&I Algorithm in O(Nlog N)](/geometry/halfplane-intersection)
 
 ## Đồ Thị
 
 - **Graph traversal**
-    - [Breadth First Search](/posts/graph/breadth-first-search)
-    - [Depth First Search](/posts/graph/depth-first-search)
+    - [Breadth First Search](/graph/breadth-first-search)
+    - [Depth First Search](/graph/depth-first-search)
 - **Connected components, bridges, articulations points**
-    - [Finding Connected Components](/posts/graph/search-for-connected-components)
-    - [Finding Bridges in O(N+M)](/posts/graph/bridge-searching)
-    - [Finding Bridges Online](/posts/graph/bridge-searching-online)
-    - [Finding Articulation Points in O(N+M)](/posts/graph/cutpoints)
-    - [Strongly Connected Components and Condensation Graph](/posts/graph/strongly-connected-components)
-    - [Strong Orientation](/posts/graph/strong-orientation)
+    - [Finding Connected Components](/graph/search-for-connected-components)
+    - [Finding Bridges in O(N+M)](/graph/bridge-searching)
+    - [Finding Bridges Online](/graph/bridge-searching-online)
+    - [Finding Articulation Points in O(N+M)](/graph/cutpoints)
+    - [Strongly Connected Components and Condensation Graph](/graph/strongly-connected-components)
+    - [Strong Orientation](/graph/strong-orientation)
 - **Single-source shortest paths**
-    - [Dijkstra - finding shortest paths from given vertex](/posts/graph/dijkstra)
-    - [Dijkstra on sparse graphs](/posts/graph/dijkstra-sparse)
-    - [Bellman-Ford - finding shortest paths with negative weights](/posts/graph/bellman-ford)
-    - [0-1 BFS](/posts/graph/01-bfs)
-    - [D´Esopo-Pape algorithm](/posts/graph/desopo-pape)
+    - [Dijkstra - finding shortest paths from given vertex](/graph/dijkstra)
+    - [Dijkstra on sparse graphs](/graph/dijkstra-sparse)
+    - [Bellman-Ford - finding shortest paths with negative weights](/graph/bellman-ford)
+    - [0-1 BFS](/graph/01-bfs)
+    - [D´Esopo-Pape algorithm](/graph/desopo-pape)
 - **All-pairs shortest paths**
-    - [Floyd-Warshall - finding all shortest paths](/posts/graph/all-pair-shortest-path-floyd-warshall)
-    - [Number of paths of fixed length / Shortest paths of fixed length](/posts/graph/fixed-length-paths)
+    - [Floyd-Warshall - finding all shortest paths](/graph/all-pair-shortest-path-floyd-warshall)
+    - [Number of paths of fixed length / Shortest paths of fixed length](/graph/fixed-length-paths)
 - **Spanning trees**
-    - [Minimum Spanning Tree - Prim's Algorithm](/posts/graph/mst-prim)
-    - [Minimum Spanning Tree - Kruskal](/posts/graph/mst-kruskal)
-    - [Minimum Spanning Tree - Kruskal with Disjoint Set Union](/posts/graph/mst-kruskal-with-dsu)
-    - [Second best Minimum Spanning Tree - Using Kruskal and Lowest Common Ancestor](/posts/graph/second-best-mst)
-    - [Kirchhoff Theorem](/posts/graph/kirchhoff-theorem)
-    - [Prüfer code](/posts/graph/pruefer-code)
+    - [Minimum Spanning Tree - Prim's Algorithm](/graph/mst-prim)
+    - [Minimum Spanning Tree - Kruskal](/graph/mst-kruskal)
+    - [Minimum Spanning Tree - Kruskal with Disjoint Set Union](/graph/mst-kruskal-with-dsu)
+    - [Second best Minimum Spanning Tree - Using Kruskal and Lowest Common Ancestor](/graph/second-best-mst)
+    - [Kirchhoff Theorem](/graph/kirchhoff-theorem)
+    - [Prüfer code](/graph/pruefer-code)
 - **Cycles**
-    - [Checking a graph for acyclicity and finding a cycle in O(M)](/posts/graph/finding-cycle)
-    - [Finding a Negative Cycle in the Graph](/posts/graph/finding-negative-cycle-in-graph)
-    - [Eulerian Path](/posts/graph/euler-path)
+    - [Checking a graph for acyclicity and finding a cycle in O(M)](/graph/finding-cycle)
+    - [Finding a Negative Cycle in the Graph](/graph/finding-negative-cycle-in-graph)
+    - [Eulerian Path](/graph/euler-path)
 - **Lowest common ancestor**
-    - [Lowest Common Ancestor](/posts/graph/lca)
-    - [Lowest Common Ancestor - Binary Lifting](/posts/graph/lca-binary-lifting)
-    - [Lowest Common Ancestor - Farach-Colton and Bender algorithm](/posts/graph/lca-farachcoltonbender)
-    - [Solve RMQ by finding LCA](/posts/graph/rmq-linear)
-    - [Lowest Common Ancestor - Tarjan's off-line algorithm](/posts/graph/lca-tarjan)
+    - [Lowest Common Ancestor](/graph/lca)
+    - [Lowest Common Ancestor - Binary Lifting](/graph/lca-binary-lifting)
+    - [Lowest Common Ancestor - Farach-Colton and Bender algorithm](/graph/lca-farachcoltonbender)
+    - [Solve RMQ by finding LCA](/graph/rmq-linear)
+    - [Lowest Common Ancestor - Tarjan's off-line algorithm](/graph/lca-tarjan)
 - **Flows and related problems**
-    - [Maximum flow - Ford-Fulkerson and Edmonds-Karp](/posts/graph/edmonds-karp)
-    - [Maximum flow - Push-relabel algorithm](/posts/graph/push-relabel)
-    - [Maximum flow - Push-relabel algorithm improved](/posts/graph/push-relabel-faster)
-    - [Maximum flow - Dinic's algorithm](/posts/graph/dinic)
-    - [Maximum flow - MPM algorithm](/posts/graph/mpm)
-    - [Flows with demands](/posts/graph/flow-with-demands)
-    - [Minimum-cost flow](/posts/graph/min-cost-flow)
-    - [Assignment problem. Solution using min-cost-flow in O (N^5)](/posts/graph/Assignment-problem-min-flow)
+    - [Maximum flow - Ford-Fulkerson and Edmonds-Karp](/graph/edmonds-karp)
+    - [Maximum flow - Push-relabel algorithm](/graph/push-relabel)
+    - [Maximum flow - Push-relabel algorithm improved](/graph/push-relabel-faster)
+    - [Maximum flow - Dinic's algorithm](/graph/dinic)
+    - [Maximum flow - MPM algorithm](/graph/mpm)
+    - [Flows with demands](/graph/flow-with-demands)
+    - [Minimum-cost flow](/graph/min-cost-flow)
+    - [Assignment problem. Solution using min-cost-flow in O (N^5)](/graph/Assignment-problem-min-flow)
 - **Matchings and related problems**
-    - [Bipartite Graph Check](/posts/graph/bipartite-check)
-    - [Kuhn' Algorithm - Maximum Bipartite Matching](/posts/graph/kuhn-maximum-bipartite-matching)
+    - [Bipartite Graph Check](/graph/bipartite-check)
+    - [Kuhn' Algorithm - Maximum Bipartite Matching](/graph/kuhn-maximum-bipartite-matching)
 - **Miscellaneous**
-    - [Topological Sorting](/posts/graph/topological-sort)
-    - [Edge connectivity / Vertex connectivity](/posts/graph/edge-vertex-connectivity)
-    - [Tree painting](/posts/graph/tree-painting)
-    - [2-SAT](/posts/graph/2sat)
-    - [Heavy-light decomposition](/posts/graph/hld)
+    - [Topological Sorting](/graph/topological-sort)
+    - [Edge connectivity / Vertex connectivity](/graph/edge-vertex-connectivity)
+    - [Tree painting](/graph/tree-painting)
+    - [2-SAT](/graph/2sat)
+    - [Heavy-light decomposition](/graph/hld)
 
 ## Các Lĩnh Vực Khác
 
 - **Sequences**
-    - [RMQ task (Range Minimum Query - the smallest element in an interval)](/posts/sequences/rmq)
-    - [Longest increasing subsequence](/posts/sequences/longest-increasing-subsequence)
-    - [Search the subsegment with the maximum/minimum sum](/posts/others/maximum-average-segment)
-    - [K-th order statistic in O(N)](/posts/sequences/k-th)
+    - [RMQ task (Range Minimum Query - the smallest element in an interval)](/sequences/rmq)
+    - [Longest increasing subsequence](/sequences/longest-increasing-subsequence)
+    - [Search the subsegment with the maximum/minimum sum](/others/maximum-average-segment)
+    - [K-th order statistic in O(N)](/sequences/k-th)
 - **Game Theory**
-    - [Games on arbitrary graphs](/posts/game-theory/games-on-graphs)
-    - [Sprague-Grundy theorem. Nim](/posts/game-theory/sprague-grundy-nim)
+    - [Games on arbitrary graphs](/game-theory/games-on-graphs)
+    - [Sprague-Grundy theorem. Nim](/game-theory/sprague-grundy-nim)
 - **Schedules**
-    - [Scheduling jobs on one machine](/posts/schedules/schedule-one-machine)
-    - [Scheduling jobs on two machines](/posts/schedules/schedule-two-machines)
-    - [Optimal schedule of jobs given their deadlines and durations](/posts/schedules/schedule-with-completion-duration)
+    - [Scheduling jobs on one machine](/schedules/schedule-one-machine)
+    - [Scheduling jobs on two machines](/schedules/schedule-two-machines)
+    - [Optimal schedule of jobs given their deadlines and durations](/schedules/schedule-with-completion-duration)
 - **Miscellaneous**
-    - [Josephus problem](/posts/others/josephus-problem)
-    - [15 Puzzle Game: Existence Of The Solution](/posts/others/15-puzzle)
-    - [The Stern-Brocot Tree and Farey Sequences](/posts/others/stern-brocot-tree-farey-sequences)
+    - [Josephus problem](/others/josephus-problem)
+    - [15 Puzzle Game: Existence Of The Solution](/others/15-puzzle)
+    - [The Stern-Brocot Tree and Farey Sequences](/others/stern-brocot-tree-farey-sequences)
 
 
 <style>
