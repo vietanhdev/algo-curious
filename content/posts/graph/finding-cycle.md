@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/finding-cycle
-discussionId: /posts/graph/finding-cycle
+slug: /graph/finding-cycle
+discussionId: /graph/finding-cycle
 title: "Checking a graph for acyclicity and finding a cycle in O(M)"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -13,7 +13,7 @@ tags: ["Algorithms"]
 
 Consider a directed or undirected graph without loops and multiple edges. We have to check whether it is acyclic, and if it is not, then find any cycle.
 
-We can solve this problem by using [Depth First Search](./graph/depth-first-search.html) in $O(M)$ where $M$ is number of edges.
+We can solve this problem by using [Depth First Search](./graph/depth-first-search) in $O(M)$ where $M$ is number of edges.
 
 ## Algorithm
 

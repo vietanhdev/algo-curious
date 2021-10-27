@@ -1,6 +1,6 @@
 ---
-slug: /posts/game-theory/sprague-grundy-nim
-discussionId: /posts/game-theory/sprague-grundy-nim
+slug: /game-theory/sprague-grundy-nim
+discussionId: /game-theory/sprague-grundy-nim
 title: "Sprague-Grundy theorem. Nim"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

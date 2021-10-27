@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/tangents-to-two-circles
-discussionId: /posts/geometry/tangents-to-two-circles
+slug: /geometry/tangents-to-two-circles
+discussionId: /geometry/tangents-to-two-circles
 title: Finding common tangents to two circles
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

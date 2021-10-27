@@ -1,6 +1,6 @@
 ---
-slug: /posts/linear-algebra/determinant-gauss
-discussionId: /posts/linear-algebra/determinant-gauss
+slug: /linear-algebra/determinant-gauss
+discussionId: /linear-algebra/determinant-gauss
 title: "Calculating Determinant of Matrix by Gauss"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -15,7 +15,7 @@ Problem: Given a matrix $A$ of size $N x N$. Compute its determinant.
 
 ## Algorithm
 
-We use the ideas of [Gauss method for solving systems of linear equations](./linear_algebra/linear-system-gauss.html)
+We use the ideas of [Gauss method for solving systems of linear equations](./linear_algebra/linear-system-gauss)
 
 We will perform the same steps as in the solution of systems of linear equations, excluding only the division of the current line to $a_{ij}$. These operations will not change the absolute value of the determinant of the matrix. When we exchange two lines of the matrix, however, the sign of the determinant can change.
 

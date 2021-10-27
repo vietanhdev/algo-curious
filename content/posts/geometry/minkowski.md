@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/minkowski
-discussionId: /posts/geometry/minkowski
+slug: /geometry/minkowski
+discussionId: /geometry/minkowski
 title: "Minkowski sum of convex polygons"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

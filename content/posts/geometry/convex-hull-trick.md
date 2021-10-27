@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/convex-hull-trick
-discussionId: /posts/geometry/convex-hull-trick
+slug: /geometry/convex-hull-trick
+discussionId: /geometry/convex-hull-trick
 title: "Convex hull trick and Li Chao tree"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

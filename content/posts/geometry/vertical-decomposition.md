@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/vertical-decomposition
-discussionId: /posts/geometry/vertical-decomposition
+slug: /geometry/vertical-decomposition
+discussionId: /geometry/vertical-decomposition
 title: "Vertical decomposition"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

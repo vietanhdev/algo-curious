@@ -1,6 +1,6 @@
 ---
-slug: /posts/sequences/k-th
-discussionId: /posts/sequences/k-th
+slug: /sequences/k-th
+discussionId: /sequences/k-th
 title: K-th order statistic in O(N)
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

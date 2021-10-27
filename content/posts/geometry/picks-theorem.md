@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/picks-theorem
-discussionId: /posts/geometry/picks-theorem
+slug: /geometry/picks-theorem
+discussionId: /geometry/picks-theorem
 title: "Pick's Theorem"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

@@ -1,6 +1,6 @@
 ---
-slug: /posts/data-structures/sqrt-decomposition
-discussionId: /posts/data-structures/sqrt-decomposition
+slug: /data-structures/sqrt-decomposition
+discussionId: /data-structures/sqrt-decomposition
 title: "Sqrt Decomposition"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

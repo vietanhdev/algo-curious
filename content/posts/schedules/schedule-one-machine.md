@@ -1,6 +1,6 @@
 ---
-slug: /posts/schedules/schedule-one-machine
-discussionId: /posts/schedules/schedule-one-machine
+slug: /schedules/schedule-one-machine
+discussionId: /schedules/schedule-one-machine
 title: "Scheduling jobs on one machine"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

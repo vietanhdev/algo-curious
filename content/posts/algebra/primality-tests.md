@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/primality-tests
-discussionId: /posts/algebra/primality-tests
+slug: /algebra/primality-tests
+discussionId: /algebra/primality-tests
 title: "Primality tests"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -36,13 +36,13 @@ bool isPrime(int x) {
 
 This is the simplest form of a prime check.
 You can optimize this function quite a bit, for instance by only checking all odd numbers in the loop, since the only even prime number is 2.
-Multiple such optimizations are described in the article about [integer factorization](./algebra/factorization.html).
+Multiple such optimizations are described in the article about [integer factorization](./algebra/factorization).
 
 ## Fermat primality test
 
 This is a probabilistic test.
 
-Fermat's little theorem (see also [Euler's totient function](./algebra/phi-function.html)) states, that for a prime number $p$ and a coprime integer $a$ the following equation holds:
+Fermat's little theorem (see also [Euler's totient function](./algebra/phi-function)) states, that for a prime number $p$ and a coprime integer $a$ the following equation holds:
 
 $$a^{p-1} \equiv 1 \bmod p$$
 
@@ -77,7 +77,7 @@ bool probablyPrimeFermat(int n, int iter=5) {
 }
 ```
 
-We use [Binary Exponentiation](./algebra/binary-exp.html) to efficiently compute the power $a^{p-1}$.
+We use [Binary Exponentiation](./algebra/binary-exp) to efficiently compute the power $a^{p-1}$.
 
 There is one bad news though:
 there exist some composite numbers where $a^{n-1} \equiv 1 \bmod n$ holds for all $a$ coprime to $n$, for instance for the number $561 = 3 \cdot 11 \cdot 17$.

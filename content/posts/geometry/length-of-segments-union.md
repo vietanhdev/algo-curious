@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/length-of-segments-union
-discussionId: /posts/geometry/length-of-segments-union
+slug: /geometry/length-of-segments-union
+discussionId: /geometry/length-of-segments-union
 title: "Length of the union of segments"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

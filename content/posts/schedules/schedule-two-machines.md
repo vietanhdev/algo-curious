@@ -1,6 +1,6 @@
 ---
-slug: /posts/schedules/schedule-two-machines
-discussionId: /posts/schedules/schedule-two-machines
+slug: /schedules/schedule-two-machines
+discussionId: /schedules/schedule-two-machines
 title: "Scheduling jobs on two machines"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

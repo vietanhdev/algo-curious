@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/dijkstra
-discussionId: /posts/graph/dijkstra
+slug: /graph/dijkstra
+discussionId: /graph/dijkstra
 title: "Dijkstra Algorithm"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -93,7 +93,7 @@ For the simplest implementation of these operations on each iteration vertex sea
 $$O(n^2+m)$$ 
 
 This complexity is optimal for dense graph, i.e. when $m \approx n^2$.
-However in sparse graphs, when $m$ is much smaller than the maximal number of edges $n^2$, the problem can be solved in $O(n \log n + m)$ complexity. The algorithm and implementation can be found on the article [Dijkstra on sparse graphs](./graph/dijkstra_sparse.html).
+However in sparse graphs, when $m$ is much smaller than the maximal number of edges $n^2$, the problem can be solved in $O(n \log n + m)$ complexity. The algorithm and implementation can be found on the article [Dijkstra on sparse graphs](./graph/dijkstra_sparse).
 
 
 ```cpp dijkstra_dense

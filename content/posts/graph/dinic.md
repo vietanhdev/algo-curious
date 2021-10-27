@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/dinic
-discussionId: /posts/graph/dinic
+slug: /graph/dinic
+discussionId: /graph/dinic
 title: "Maximum flow - Dinic's algorithm"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -11,7 +11,7 @@ categories: ["Competitive Programming"]
 tags: ["Algorithms"]
 ---
 
-Dinic's algorithm solves the maximum flow problem in $O(V^2E)$. The maximum flow problem is defined in this article [Maximum flow - Ford-Fulkerson and Edmonds-Karp](./graph/edmonds_karp.html). This algorithm was discovered by Yefim Dinitz in 1970.
+Dinic's algorithm solves the maximum flow problem in $O(V^2E)$. The maximum flow problem is defined in this article [Maximum flow - Ford-Fulkerson and Edmonds-Karp](./graph/edmonds-karp). This algorithm was discovered by Yefim Dinitz in 1970.
 
 ## Definitions
 

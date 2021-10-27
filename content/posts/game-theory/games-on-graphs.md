@@ -1,6 +1,6 @@
 ---
-slug: /posts/game-theory/games-on-graphs
-discussionId: /posts/game-theory/games-on-graphs
+slug: /game-theory/games-on-graphs
+discussionId: /game-theory/games-on-graphs
 title: "Games on arbitrary graphs"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -41,7 +41,7 @@ We go through all vertices and try to apply the first or second rule, and repeat
 However, we can accelerate this procedure, and get the complexity down to $O(m)$.
 
 We will go over all the vertices, for which we initially know if they are winning or losing states.
-For each of them, we start a [depth first search](./graph/depth-first-search.html).
+For each of them, we start a [depth first search](./graph/depth-first-search).
 This DFS will move back over the reversed edges.
 First of all, it will not enter vertices which already are defined as winning or losing vertices.
 And further, if the search goes from a losing vertex to an undefined vertex, then we mark this one as a winning vertex, and continue the DFS using this new vertex.

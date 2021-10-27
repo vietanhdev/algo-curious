@@ -1,6 +1,6 @@
 ---
-slug: /posts/others/15-puzzle
-discussionId: /posts/others/15-puzzle
+slug: /others/15-puzzle
+discussionId: /others/15-puzzle
 title: "15 Puzzle Game: Existence Of The Solution"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

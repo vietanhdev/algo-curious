@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/mst-kruskal-with-dsu
-discussionId: /posts/graph/mst-kruskal-with-dsu
+slug: /graph/mst-kruskal-with-dsu
+discussionId: /graph/mst-kruskal-with-dsu
 title: "Minimum spanning tree - Kruskal with Disjoint Set Union"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -11,9 +11,9 @@ categories: ["Competitive Programming"]
 tags: ["Algorithms"]
 ---
 
-For an explanation of the MST problem and the Kruskal algorithm, first see the [main article on Kruskal's algorithm](./graph/mst_kruskal.html).
+For an explanation of the MST problem and the Kruskal algorithm, first see the [main article on Kruskal's algorithm](./graph/mst-kruskal).
 
-In this article we will consider the data structure ["Disjoint Set Union"](./data_structures/disjoint_set_union.html) for implementing Kruskal's algorithm, which will allow the algorithm to achieve the time complexity of $O(M \log N)$.
+In this article we will consider the data structure ["Disjoint Set Union"](./data_structures/disjoint_set_union) for implementing Kruskal's algorithm, which will allow the algorithm to achieve the time complexity of $O(M \log N)$.
 
 ## Description
 
@@ -85,4 +85,4 @@ Notice: since the MST will contain exactly $N-1$ edges, we can stop the for loop
 
 ## Practice Problems
 
-See [main article on Kruskal's algorithm](./graph/mst_kruskal.html) for the list of practice problems on this topic.
+See [main article on Kruskal's algorithm](./graph/mst-kruskal) for the list of practice problems on this topic.

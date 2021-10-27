@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/mst-prim
-discussionId: /posts/graph/mst-prim
+slug: /graph/mst-prim
+discussionId: /graph/mst-prim
 title: "Minimum spanning tree - Prim's algorithm"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -104,7 +104,7 @@ Thus we received a version of Prim's algorithm with the complexity $O(n^2)$.
 
 In particular this implementation is very convenient for the Euclidean Minimum Spanning Tree problem:
 we have $n$ points on a plane and the distance between each pair of points is the Euclidean distance between them, and we want to find a minimum spanning tree for this complete graph.
-This task can be solved by the described algorithm in $O(n^2)$ time and $O(n)$ memory, which is not possible with [Kruskal's algorithm](./graph/mst_kruskal.html).
+This task can be solved by the described algorithm in $O(n^2)$ time and $O(n)$ memory, which is not possible with [Kruskal's algorithm](./graph/mst-kruskal).
 
 ```cpp
 int n;

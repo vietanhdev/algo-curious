@@ -1,6 +1,6 @@
 ---
-slug: /posts/dynamic-programming/divide-and-conquer-dp
-discussionId: /posts/dynamic-programming/divide-and-conquer-dp
+slug: /dynamic-programming/divide-and-conquer-dp
+discussionId: /dynamic-programming/divide-and-conquer-dp
 title: Divide and Conquer DP
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

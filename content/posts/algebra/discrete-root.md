@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/discrete-root
-discussionId: /posts/algebra/discrete-root
+slug: /algebra/discrete-root
+discussionId: /algebra/discrete-root
 title: "Discrete Root"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -17,9 +17,9 @@ $x^k \equiv a \pmod n$
 
 ## The algorithm
 
-We will solve this problem by reducing it to the [discrete logarithm problem](./algebra/discrete-log.html).
+We will solve this problem by reducing it to the [discrete logarithm problem](./algebra/discrete-log).
 
-Let's apply the concept of a [primitive root](./algebra/primitive-root.html) modulo $n$. Let $g$ be a primitive root modulo $n$. Note that since $n$ is prime, it must exist, and it can be found in $O(Ans \cdot \log \phi (n) \cdot \log n) = O(Ans \cdot \log^2 n)$ plus time of factoring $\phi (n)$.
+Let's apply the concept of a [primitive root](./algebra/primitive-root) modulo $n$. Let $g$ be a primitive root modulo $n$. Note that since $n$ is prime, it must exist, and it can be found in $O(Ans \cdot \log \phi (n) \cdot \log n) = O(Ans \cdot \log^2 n)$ plus time of factoring $\phi (n)$.
 
 We can easily discard the case where $a = 0$. In this case, obviously there is only one answer: $x = 0$.
 

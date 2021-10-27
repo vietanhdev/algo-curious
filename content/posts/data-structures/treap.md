@@ -1,6 +1,6 @@
 
-slug: /posts/data-structures/treap
-discussionId: /posts/data-structures/treap
+slug: /data-structures/treap
+discussionId: /data-structures/treap
 ---
 title: "Treap"
 thumbnail: "/img/competitive-programming.svg"

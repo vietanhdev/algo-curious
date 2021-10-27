@@ -1,6 +1,6 @@
 ---
-slug: /posts/string/suffix-automaton
-discussionId: /posts/string/suffix-automaton
+slug: /string/suffix-automaton
+discussionId: /string/suffix-automaton
 title: "Suffix Automaton"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

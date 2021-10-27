@@ -1,6 +1,6 @@
 ---
-slug: /posts/dynamic-programming/profile-dynamics
-discussionId: /posts/dynamic-programming/profile-dynamics
+slug: /dynamic-programming/profile-dynamics
+discussionId: /dynamic-programming/profile-dynamics
 title: "Dynamic Programming on Broken Profile. Problem \"Parquet\""
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -91,6 +91,6 @@ int main()
 
 ## References
 
-- [Blog by EvilBunny](https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html)
+- [Blog by EvilBunny](https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming)
 - [TopCoder Recipe by "syg96"](https://apps.topcoder.com/forums/?module=Thread&start=0&threadID=697369)
-- [Blogpost by sk765](http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html)
+- [Blogpost by sk765](http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile)

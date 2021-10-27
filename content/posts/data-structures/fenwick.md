@@ -1,6 +1,6 @@
 ---
-slug: /posts/data-structures/fenwick
-discussionId: /posts/data-structures/fenwick
+slug: /data-structures/fenwick
+discussionId: /data-structures/fenwick
 title: "Fenwick Tree"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

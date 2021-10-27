@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/circle-line-intersection
-discussionId: /posts/geometry/circle-line-intersection
+slug: /geometry/circle-line-intersection
+discussionId: /geometry/circle-line-intersection
 title: "Circle-Line Intersection"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

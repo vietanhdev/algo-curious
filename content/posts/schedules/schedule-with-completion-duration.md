@@ -1,6 +1,6 @@
 ---
-slug: /posts/schedules/schedule-with-completion-duration
-discussionId: /posts/schedules/schedule-with-completion-duration
+slug: /schedules/schedule-with-completion-duration
+discussionId: /schedules/schedule-with-completion-duration
 title: "Optimal schedule of jobs given their deadlines and durations"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

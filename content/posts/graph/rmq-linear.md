@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/rmq-linear
-discussionId: /posts/graph/rmq-linear
+slug: /graph/rmq-linear
+discussionId: /graph/rmq-linear
 title: "Solve RMQ by finding LCA"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -17,7 +17,7 @@ We will assume that the array `A` doesn't change in the process, i.e. this artic
 
 Here is a description of an asymptotically optimal solution.
 It stands apart from other solutions for the RMQ problem, since it is very different from them:
-it reduces the RMQ problem to the LCA problem, and then uses the [Farach-Colton and Bender algorithm](./graph/lca_farachcoltonbender.html), which reduces the LCA problem back to a specialized RMQ problem and solves that.
+it reduces the RMQ problem to the LCA problem, and then uses the [Farach-Colton and Bender algorithm](./graph/lca-farachcoltonbender), which reduces the LCA problem back to a specialized RMQ problem and solves that.
 
 ## Algorithm
 

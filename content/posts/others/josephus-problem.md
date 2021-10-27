@@ -1,6 +1,6 @@
 ---
-slug: /posts/others/josephus-problem
-discussionId: /posts/others/josephus-problem
+slug: /others/josephus-problem
+discussionId: /others/josephus-problem
 title: "Josephus Problem"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -23,7 +23,7 @@ It is required to find the last number.
 This task was set by **Flavius Josephus** in the 1st century (though in a somewhat narrower formulation: for $k = 2$).
 
 This problem can be solved by modeling the procedure.
-Brute force modeling will work $O(n^{2})$. Using a [Segment Tree](/data_structures/segment_tree.html), we can improve it to $O(n \log n)$.
+Brute force modeling will work $O(n^{2})$. Using a [Segment Tree](/data-structures/segment-tree), we can improve it to $O(n \log n)$.
 We want something better though.
 
 ## Modeling a $O(n)$ solution

@@ -1,6 +1,6 @@
 ---
-slug: /posts/combinatorics/bishops-on-chessboard
-discussionId: /posts/combinatorics/bishops-on-chessboard
+slug: /combinatorics/bishops-on-chessboard
+discussionId: /combinatorics/bishops-on-chessboard
 title: "Placing Bishops on a Chessboard"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

@@ -1,6 +1,6 @@
 ---
-slug: /posts/combinatorics/burnside
-discussionId: /posts/combinatorics/burnside
+slug: /combinatorics/burnside
+discussionId: /combinatorics/burnside
 title: "Burnside's lemma / Pólya enumeration theorem"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -176,7 +176,7 @@ where $C_d$ is the number of such numbers $i$ with $\gcd(i, n) = d$.
 We can find an explicit expression for this value.
 Any such number $i$ has the form $i = d j$ with $\gcd(j, n / d) = 1$ (otherwise $\gcd(i, n) > d$).
 So we can count the number of $j$ with this behavior.
-[Euler's phi function](./algebra/phi-function.html) gives us the result $C_d = \phi(n / d)$, and therefore we get the answer:
+[Euler's phi function](./algebra/phi-function) gives us the result $C_d = \phi(n / d)$, and therefore we get the answer:
 $$\frac{1}{n} \sum_{d ~|~ n} \phi\left(\frac{n}{d}\right) k^d$$
 
 ## Application: Coloring a torus

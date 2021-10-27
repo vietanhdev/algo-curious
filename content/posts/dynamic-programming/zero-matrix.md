@@ -1,6 +1,6 @@
 ---
-slug: /posts/dynamic-programming/zero-matrix
-discussionId: /posts/dynamic-programming/zero-matrix
+slug: /dynamic-programming/zero-matrix
+discussionId: /dynamic-programming/zero-matrix
 title: "Finding the largest zero submatrix"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

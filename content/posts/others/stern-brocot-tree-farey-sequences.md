@@ -1,6 +1,6 @@
 ---
-slug: /posts/others/stern-brocot-tree-farey-sequences
-discussionId: /posts/others/stern-brocot-tree-farey-sequences
+slug: /others/stern-brocot-tree-farey-sequences
+discussionId: /others/stern-brocot-tree-farey-sequences
 title: "The Stern-Brocot Tree and Farey Sequences"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

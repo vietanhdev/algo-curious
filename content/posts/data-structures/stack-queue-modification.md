@@ -1,6 +1,6 @@
 ---
-slug: /posts/data-structures/stack-queue-modification
-discussionId: /posts/data-structures/stack-queue-modification
+slug: /data-structures/stack-queue-modification
+discussionId: /data-structures/stack-queue-modification
 title: "Minimum stack / Minimum queue"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

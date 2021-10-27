@@ -1,6 +1,6 @@
 ---
-slug: /posts/data-structures/randomized-heap
-discussionId: /posts/data-structures/randomized-heap
+slug: /data-structures/randomized-heap
+discussionId: /data-structures/randomized-heap
 title: "Randomized Heap"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

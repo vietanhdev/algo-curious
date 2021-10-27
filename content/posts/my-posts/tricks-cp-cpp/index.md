@@ -1,12 +1,12 @@
 ---
 title: "Tricks for competitive programming C++"
-discussionId: "/posts/tricks-cp-cpp/"
+discussionId: "/tricks-cp-cpp/"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-04
 toc: true
 draft: false
 math: true
-slug: "/posts/tricks-cp-cpp/"
+slug: "/tricks-cp-cpp/"
 categories: ["Competitive Programming"]
 tags: ["Tricks"]
 description: "Must-Known tricks for competitive programming in C++. Solve problems quickly and correctly." 

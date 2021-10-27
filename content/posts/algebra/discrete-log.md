@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/discrete-log
-discussionId: /posts/algebra/discrete-log
+slug: /algebra/discrete-log
+discussionId: /algebra/discrete-log
 title: "Discrete Logarithm"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -52,7 +52,7 @@ This problem can be solved using the meet-in-the-middle method as follows:
 
 ## Complexity
 
-We can calculate $f_1(p)$ in $O(\log m)$ using the [binary exponentation algorithm](./algebra/binary-exp.html). Similarly for $f_2(q)$.
+We can calculate $f_1(p)$ in $O(\log m)$ using the [binary exponentation algorithm](./algebra/binary-exp). Similarly for $f_2(q)$.
 
 In the first step of the algorithm, we need to calculate $f_1$ for every possible argument $p$ and then sort the values. Thus, this step has complexity:
 

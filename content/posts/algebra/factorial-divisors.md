@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/factorial-divisors
-discussionId: /posts/algebra/factorial-divisors
+slug: /algebra/factorial-divisors
+discussionId: /algebra/factorial-divisors
 title: "Finding Power of Factorial Divisor"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

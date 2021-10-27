@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/push-relabel-faster
-discussionId: /posts/graph/push-relabel-faster
+slug: /graph/push-relabel-faster
+discussionId: /graph/push-relabel-faster
 title: "Maximum flow - Push-relabel method improved"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -11,7 +11,7 @@ categories: ["Competitive Programming"]
 tags: ["Algorithms"]
 ---
 
-We will modify the [push-relabel method](./graph/push-relabel.html) to achieve a better runtime.
+We will modify the [push-relabel method](./graph/push-relabel) to achieve a better runtime.
 
 ## Description
 

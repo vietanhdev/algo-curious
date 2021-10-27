@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/lines-intersection
-discussionId: /posts/geometry/lines-intersection
+slug: /geometry/lines-intersection
+discussionId: /geometry/lines-intersection
 title: Intersection Point of Lines
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -38,7 +38,7 @@ To do that we only have calculate the following determinants, and if they both e
 
 $$\begin{vmatrix}a_1 & c_1 \cr a_2 & c_2\end{vmatrix}, \begin{vmatrix}b_1 & c_1 \cr b_2 & c_2\end{vmatrix} $$
 
-Notice, a different approach for computing the intersection point is explained in the article [Basic Geometry](geometry/basic-geometry.html).
+Notice, a different approach for computing the intersection point is explained in the article [Basic Geometry](geometry/basic-geometry).
 
 ## Implementation
 

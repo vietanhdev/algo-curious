@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/binary-exp
-discussionId: /posts/algebra/binary-exp
+slug: /algebra/binary-exp
+discussionId: /algebra/binary-exp
 title: Binary Exponentiation
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -97,7 +97,7 @@ long long binpow(long long a, long long b) {
 
 **Problem:**
 Compute $x^n \bmod m$.
-This is a very common operation. For instance it is used in computing the [modular multiplicative inverse](./algebra/module-inverse.html).
+This is a very common operation. For instance it is used in computing the [modular multiplicative inverse](./algebra/module-inverse).
 
 **Solution:**
 Since we know that the module operator doesn't interfere with multiplications ($a \cdot b \equiv (a \bmod m) \cdot (b \bmod m) \pmod m$), we can directly use the same code, and just replace every multiplication with a modular multiplication:
@@ -117,13 +117,13 @@ long long binpow(long long a, long long b, long long m) {
 ```
 
 **Note:** If $m$ is a prime number we can speed up a bit this algorithm by calculating $x ^ {n \mod (m-1)}$ instead of $x ^ n$.
-This follows directly from [Fermat's little theorem](./algebra/module-inverse.html#toc-tgt-2).
+This follows directly from [Fermat's little theorem](./algebra/module-inverse#toc-tgt-2).
 
 ### Effective computation of Fibonacci numbers
 
 **Problem:** Compute $n$-th Fibonacci number $F_n$.
 
-**Solution:** For more details, see the [Fibonacci Number article](./algebra/fibonacci-numbers.html).
+**Solution:** For more details, see the [Fibonacci Number article](./algebra/fibonacci-numbers).
 We will only go through an overview of the algorithm.
 To compute the next Fibonacci number, only the two previous ones are needed, as $F_n = F_{n-1} + F_{n-2}$.
 We can build a $2 \times 2$ matrix that describes this transformation:
@@ -204,7 +204,7 @@ Now, once every transformation is described as a matrix, the sequence of transfo
 
 **Problem:** Given a directed unweighted graph of $n$ vertices, find the number of paths of length $k$ from any vertex $u$ to any other vertex $v$.
 
-**Solution:** This problem is considered in more detail in [a separate article](./graph/fixed_length_paths.html). The algorithm consists of raising the adjacency matrix $M$ of the graph (a matrix where $m_{ij} = 1$ if there is an edge from $i$ to $j$, or $0$ otherwise) to the $k$-th power. Now $m_{ij}$ will be the number of paths of length $k$ from $i$ to $j$. The time complexity of this solution is $O(n^3 \log k)$.
+**Solution:** This problem is considered in more detail in [a separate article](./graph/fixed-length-paths). The algorithm consists of raising the adjacency matrix $M$ of the graph (a matrix where $m_{ij} = 1$ if there is an edge from $i$ to $j$, or $0$ otherwise) to the $k$-th power. Now $m_{ij}$ will be the number of paths of length $k$ from $i$ to $j$. The time complexity of this solution is $O(n^3 \log k)$.
 
 **Note:** In that same article, another variation of this problem is considered: when the edges are weighted and it is required to find the minimum weight path containing exactly $k$ edges. As shown in that article, this problem is also solved by exponentiation of the adjacency matrix. The matrix would have the weight of the edge from $i$ to $j$, or $\infty$ if there is no such edge.
 Instead of the usual operation of multiplying two matrices, a modified one should be used:

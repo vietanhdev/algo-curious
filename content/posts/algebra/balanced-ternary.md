@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/balanced-ternary
-discussionId: /posts/algebra/balanced-ternary
+slug: /algebra/balanced-ternary
+discussionId: /algebra/balanced-ternary
 title: Balanced Ternary
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

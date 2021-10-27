@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/divisors
-discussionId: /posts/algebra/divisors
+slug: /algebra/divisors
+discussionId: /algebra/divisors
 title: "Number of divisors / sum of divisors"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

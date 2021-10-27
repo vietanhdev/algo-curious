@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/prime-sieve-linear
-discussionId: /posts/algebra/prime-sieve-linear
+slug: /algebra/prime-sieve-linear
+discussionId: /algebra/prime-sieve-linear
 title: "Sieve of Eratosthenes With Linear Time Complexity"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -13,7 +13,7 @@ tags: ["Algorithms"]
 
 Given a number $n$, find all prime numbers in a segment $[2;n]$.
 
-The standard way of solving a task is to use [the sieve of Eratosthenes](./algebra/sieve-of-eratosthenes.html). This algorithm is very simple, but it has runtime $O(n \log \log n)$.
+The standard way of solving a task is to use [the sieve of Eratosthenes](./algebra/sieve-of-eratosthenes). This algorithm is very simple, but it has runtime $O(n \log \log n)$.
 
 Although there are a lot of known algorithms with sublinear runtime (i.e. $o(n)$), the algorithm described below is interesting by its simplicity: it isn't any more complex than the classic sieve of Eratosthenes.
 

@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/area-of-simple-polygon
-discussionId: /posts/geometry/area-of-simple-polygon
+slug: /geometry/area-of-simple-polygon
+discussionId: /geometry/area-of-simple-polygon
 title: "Finding area of simple polygon in O(N)"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

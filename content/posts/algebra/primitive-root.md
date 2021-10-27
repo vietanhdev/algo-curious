@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/primitive-root
-discussionId: /posts/algebra/primitive-root
+slug: /algebra/primitive-root
+discussionId: /algebra/primitive-root
 title: "Primitive Root"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

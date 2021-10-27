@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/euler-path
-discussionId: /posts/graph/euler-path
+slug: /graph/euler-path
+discussionId: /graph/euler-path
 title: "Finding the Eulerian path in O(M)   "
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

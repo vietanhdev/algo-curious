@@ -1,6 +1,6 @@
 ---
-slug: /posts/num-methods/ternary-search
-discussionId: /posts/num-methods/ternary-search
+slug: /num-methods/ternary-search
+discussionId: /num-methods/ternary-search
 title: "Ternary Search and its Applications"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

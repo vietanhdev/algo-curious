@@ -1,6 +1,6 @@
 ---
-slug: /posts/linear-algebra/linear-system-gauss
-discussionId: /posts/linear-algebra/linear-system-gauss
+slug: /linear-algebra/linear-system-gauss
+discussionId: /linear-algebra/linear-system-gauss
 title: "Gauss method for solving system of linear equations"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

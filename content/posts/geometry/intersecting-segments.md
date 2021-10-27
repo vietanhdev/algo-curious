@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/intersecting-segments
-discussionId: /posts/geometry/intersecting-segments
+slug: /geometry/intersecting-segments
+discussionId: /geometry/intersecting-segments
 title: "Search for a pair of intersecting segments"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

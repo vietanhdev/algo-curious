@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/edmonds-karp
-discussionId: /posts/graph/edmonds-karp
+slug: /graph/edmonds-karp
+discussionId: /graph/edmonds-karp
 title: "Maximum flow - Ford-Fulkerson and Edmonds-Karp"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -108,7 +108,7 @@ Now it is impossible to find an augmenting path between $s$ and $t$, therefore t
 We have found the maximal flow.
 
 It should be noted, that the Ford-Fulkerson method doesn't specify a method of finding the augmenting path.
-Possible approaches are using [DFS](./graph/depth-first-search.html) or [BFS](./graph/breadth-first-search.html) which both work in $O(E)$.
+Possible approaches are using [DFS](./graph/depth-first-search) or [BFS](./graph/breadth-first-search) which both work in $O(E)$.
 If all capacities of the network are integers, then for each augmenting path the flow of the network increases by at least 1 (for more details see [Integral flow theorem](#integral-theorem)).
 Therefore the complexity of Ford-Fulkerson is $O(E F)$, where $F$ is the maximal flow of the network.
 In case of rational capacities, the algorithm will also terminate, but the complexity is not bounded.
@@ -116,7 +116,7 @@ In case of irrational capacities, the algorithm might never terminate, and might
 
 ## Edmonds-Karp algorithm
 
-Edmonds-Karp algorithm is just an implementation of the Ford-Fulkerson method that uses [BFS](./graph/breadth-first-search.html) for finding augmenting paths.
+Edmonds-Karp algorithm is just an implementation of the Ford-Fulkerson method that uses [BFS](./graph/breadth-first-search) for finding augmenting paths.
 The algorithm was first published by Yefim Dinitz in 1970, and later independently published by Jack Edmonds and Richard Karp in 1972.
 
 The complexity can be given independently of the maximal flow.
@@ -206,7 +206,7 @@ Other cuts will have a bigger capacity, like the capacity between $\\{s, A\\}$ a
 A minimum cut can be found after performing a maximum flow computation using the Ford-Fulkerson method.
 One possible minimum cut is the following:
 the set of all vertices that can be reached from $s$ in the residual graph (using edges with positive residual capacity), and the set of all the other vertices.
-This partition can be easily found using [DFS](./graph/depth-first-search.html) starting at $s$.
+This partition can be easily found using [DFS](./graph/depth-first-search) starting at $s$.
 
 ## Practice Problems
 - [Codeforces - Array and Operations](https://codeforces.com/contest/498/problem/c)

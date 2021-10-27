@@ -1,6 +1,6 @@
 ---
-slug: /posts/num-methods/roots-newton
-discussionId: /posts/num-methods/roots-newton
+slug: /num-methods/roots-newton
+discussionId: /num-methods/roots-newton
 title: "Newton's method for finding roots"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

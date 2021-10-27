@@ -1,6 +1,6 @@
 ---
-slug: /posts/linear-algebra/determinant-kraut
-discussionId: /posts/linear-algebra/determinant-kraut
+slug: /linear-algebra/determinant-kraut
+discussionId: /linear-algebra/determinant-kraut
 title: Calculating the determinant using Kraut method
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

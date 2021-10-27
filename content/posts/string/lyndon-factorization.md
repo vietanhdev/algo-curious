@@ -1,6 +1,6 @@
 ---
-slug: /posts/string/lyndon-factorization
-discussionId: /posts/string/lyndon-factorization
+slug: /string/lyndon-factorization
+discussionId: /string/lyndon-factorization
 title: "Lyndon factorization"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

@@ -1,6 +1,6 @@
 ---
-slug: /posts/data-structures/deleting-in-log-n
-discussionId: /posts/data-structures/deleting-in-log-n
+slug: /data-structures/deleting-in-log-n
+discussionId: /data-structures/deleting-in-log-n
 title: Deleting from a data structure in O(T(n)log n)
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

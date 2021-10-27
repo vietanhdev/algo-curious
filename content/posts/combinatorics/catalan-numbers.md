@@ -1,6 +1,6 @@
 ---
-slug: /posts/combinatorics/catalan-numbers
-discussionId: /posts/combinatorics/catalan-numbers
+slug: /combinatorics/catalan-numbers
+discussionId: /combinatorics/catalan-numbers
 title: "Catalan Numbers and its Applications"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

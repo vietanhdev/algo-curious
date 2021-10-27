@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/dijkstra-sparse
-discussionId: /posts/graph/dijkstra-sparse
+slug: /graph/dijkstra-sparse
+discussionId: /graph/dijkstra-sparse
 title: "Dijkstra on sparse graphs"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -11,7 +11,7 @@ categories: ["Competitive Programming"]
 tags: ["Algorithms"]
 ---
 
-For the statement of the problem, the algorithm with implementation and proof can be found on the article [Dijkstra's algorithm](./graph/dijkstra.html).
+For the statement of the problem, the algorithm with implementation and proof can be found on the article [Dijkstra's algorithm](./graph/dijkstra).
 
 ## Algorithm
 

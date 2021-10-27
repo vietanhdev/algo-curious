@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/search-for-connected-components
-discussionId: /posts/graph/search-for-connected-components
+slug: /graph/search-for-connected-components
+discussionId: /graph/search-for-connected-components
 title: "Search for connected components in a graph"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/sieve-of-eratosthenes
-discussionId: /posts/algebra/sieve-of-eratosthenes
+slug: /algebra/sieve-of-eratosthenes
+discussionId: /algebra/sieve-of-eratosthenes
 title: "Sieve of Eratosthenes"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -252,7 +252,7 @@ Obviously, the complexity is worse, which is $O((R - L + 1) \log (R) + \sqrt R)$
 ## Linear time modification
 
 We can modify the algorithm in a such a way, that it only has linear time complexity.
-This approach is described in the article [Sieve of Eratosthenes Having Linear Time Complexity](./algebra/prime-sieve-linear.html).
+This approach is described in the article [Sieve of Eratosthenes Having Linear Time Complexity](./algebra/prime-sieve-linear).
 However, this algorithm also has its own weaknesses.
 
 ## Practice Problems

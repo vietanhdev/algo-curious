@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/mpm
-discussionId: /posts/graph/mpm
+slug: /graph/mpm
+discussionId: /graph/mpm
 title: "Maximum flow - MPM algorithm"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -11,7 +11,7 @@ categories: ["Competitive Programming"]
 tags: ["Algorithms"]
 ---
 
-MPM (Malhotra, Pramodh-Kumar and Maheshwari) algorithm solves the maximum flow problem in $O(V^3)$. This algorithm is similar to [Dinic's algorithm](./graph/dinic.html).
+MPM (Malhotra, Pramodh-Kumar and Maheshwari) algorithm solves the maximum flow problem in $O(V^3)$. This algorithm is similar to [Dinic's algorithm](./graph/dinic).
 
 ## Algorithm
 
@@ -40,7 +40,7 @@ Likewise, all the nodes different from $s$ and $t$ without outgoing or incoming 
 
 Each phase works in $O(V^2)$ because there are at most $V$ iterations (because at least the chosen reference node is deleted), and on each iteration we delete all the edges we passed through except at most $V$.
 Summing, we get $O(V^2 + E) = O(V^2)$.
-Since there are less than $V$ phases (see the proof [here](./graph/dinic.html)), MPM works in $O(V^3)$ total.
+Since there are less than $V$ phases (see the proof [here](./graph/dinic)), MPM works in $O(V^3)$ total.
 
 ## Implementation
 

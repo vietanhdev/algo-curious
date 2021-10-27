@@ -1,6 +1,6 @@
 ---
-slug: /posts/combinatorics/counting-labeled-graphs
-discussionId: /posts/combinatorics/counting-labeled-graphs
+slug: /combinatorics/counting-labeled-graphs
+discussionId: /combinatorics/counting-labeled-graphs
 title: "Counting labeled graphs"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

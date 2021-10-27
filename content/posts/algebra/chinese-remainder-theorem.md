@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/chinese-remainder-theorem
-discussionId: /posts/algebra/chinese-remainder-theorem
+slug: /algebra/chinese-remainder-theorem
+discussionId: /algebra/chinese-remainder-theorem
 title: "Chinese Remainder Theorem"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -53,7 +53,7 @@ Let $r_{ij}$ denote the inverse of $p_i$ modulo $p_j$
 $$
     r_{ij} = (p_i)^{-1} \pmod{p_j}
 $$
-which can be found using the algorithm described in [Modular Inverse](./algebra/module-inverse.html). Substituting $a$ from the mixed radix representation into the first congruence equation we obtain
+which can be found using the algorithm described in [Modular Inverse](./algebra/module-inverse). Substituting $a$ from the mixed radix representation into the first congruence equation we obtain
 $$
     a_1 \equiv x_1 \pmod{p_1}.
 $$

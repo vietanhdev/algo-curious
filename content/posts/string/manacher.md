@@ -1,6 +1,6 @@
 ---
-slug: /posts/string/manacher
-discussionId: /posts/string/manacher
+slug: /string/manacher
+discussionId: /string/manacher
 title: Manacher's Algorithm - Finding all sub-palindromes in O(N)
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -35,7 +35,7 @@ It's a surprising fact that there is an algorithm, which is simple enough, that 
 
 ## Solution
 
-In general, this problem has many solutions: with [String Hashing](/string/string-hashing.html) it can be solved in $O(n\cdot \log n)$, and with [Suffix Trees](/string/suffix-tree-ukkonen.html) and fast LCA this problem can be solved in $O(n)$.
+In general, this problem has many solutions: with [String Hashing](/string/string-hashing) it can be solved in $O(n\cdot \log n)$, and with [Suffix Trees](/string/suffix-tree-ukkonen) and fast LCA this problem can be solved in $O(n)$.
 
 But the method described here is **sufficiently** simpler and has less hidden constant in time and memory complexity. This algorithm was discovered by **Glenn K. Manacher** in 1975.
 
@@ -126,7 +126,7 @@ Also we'll repeat that the algorithm was described to calculate the array for od
 
 At the first glance it's not obvious that this algorithm has linear time complexity, because we often run the naive algorithm while searching the answer for a particular position.
 
-However, a more careful analysis shows that the algorithm is linear. In fact, [Z-function building algorithm](/string/z-function.html), which looks similar to this algorithm, also works in linear time.
+However, a more careful analysis shows that the algorithm is linear. In fact, [Z-function building algorithm](/string/z-function), which looks similar to this algorithm, also works in linear time.
 
 We can notice that every iteration of trivial algorithm increases $r$ by one. Also $r$ cannot be decreased during the algorithm. So, trivial algorithm will make $O(n)$ iterations in total.
 

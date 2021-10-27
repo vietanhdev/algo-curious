@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/point-in-convex-polygon
-discussionId: /posts/geometry/point-in-convex-polygon
+slug: /geometry/point-in-convex-polygon
+discussionId: /geometry/point-in-convex-polygon
 title: "Check if point belongs to the convex polygon in O(log N)"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

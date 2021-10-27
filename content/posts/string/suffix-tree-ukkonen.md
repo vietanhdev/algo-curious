@@ -1,6 +1,6 @@
 ---
-slug: /posts/string/suffix-tree-ukkonen
-discussionId: /posts/string/suffix-tree-ukkonen
+slug: /string/suffix-tree-ukkonen
+discussionId: /string/suffix-tree-ukkonen
 title: Suffix tree. Ukkonen's algorithm
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

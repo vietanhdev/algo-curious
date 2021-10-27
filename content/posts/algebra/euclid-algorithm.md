@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/euclid-algorithm
-discussionId: /posts/algebra/euclid-algorithm
+slug: /algebra/euclid-algorithm
+discussionId: /algebra/euclid-algorithm
 title: "Euclidean algorithm for computing the greatest common divisor"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/basic-geometry
-discussionId: /posts/geometry/basic-geometry
+slug: /geometry/basic-geometry
+discussionId: /geometry/basic-geometry
 title: "Basic Geometry"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

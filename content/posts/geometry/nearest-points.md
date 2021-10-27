@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/nearest-points
-discussionId: /posts/geometry/nearest-points
+slug: /geometry/nearest-points
+discussionId: /geometry/nearest-points
 title: "Finding the nearest pair of points"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

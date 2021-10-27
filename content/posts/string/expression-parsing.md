@@ -1,6 +1,6 @@
 ---
-slug: /posts/string/expression-parsing
-discussionId: /posts/string/expression-parsing
+slug: /string/expression-parsing
+discussionId: /string/expression-parsing
 title: "Expression parsing"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

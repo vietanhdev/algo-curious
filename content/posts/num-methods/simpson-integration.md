@@ -1,6 +1,6 @@
 ---
-slug: /posts/num-methods/simpson-integration
-discussionId: /posts/num-methods/simpson-integration
+slug: /num-methods/simpson-integration
+discussionId: /num-methods/simpson-integration
 title: "Simpson integration"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

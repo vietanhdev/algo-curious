@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/delaunay
-discussionId: /posts/geometry/delaunay
+slug: /geometry/delaunay
+discussionId: /geometry/delaunay
 title: "Delaunay triangulation and Voronoi diagram"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

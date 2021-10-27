@@ -1,6 +1,6 @@
 ---
-slug: /posts/combinatorics/bracket-sequences
-discussionId: /posts/combinatorics/bracket-sequences
+slug: /combinatorics/bracket-sequences
+discussionId: /combinatorics/bracket-sequences
 title: "Balanced bracket sequences"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -49,7 +49,7 @@ Otherwise it is.
 
 ### Formula
 
-The number of balanced bracket sequences with only one bracket type can be calculated using the [Catalan numbers](./combinatorics/catalan-numbers.html).
+The number of balanced bracket sequences with only one bracket type can be calculated using the [Catalan numbers](./combinatorics/catalan-numbers).
 The number of balanced bracket sequences of length $2n$ ($n$ pairs of brackets) is:
 $$\frac{1}{n+1} \binom{2n}{n}$$
 

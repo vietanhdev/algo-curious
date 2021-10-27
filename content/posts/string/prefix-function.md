@@ -1,6 +1,6 @@
 ---
-slug: /posts/string/prefix-function
-discussionId: /posts/string/prefix-function
+slug: /string/prefix-function
+discussionId: /string/prefix-function
 title: "Prefix function. Knuth–Morris–Pratt algorithm"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

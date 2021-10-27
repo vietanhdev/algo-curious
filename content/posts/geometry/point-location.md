@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/point-location
-discussionId: /posts/geometry/point-location
+slug: /geometry/point-location
+discussionId: /geometry/point-location
 title: "Point location in O(log n)"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

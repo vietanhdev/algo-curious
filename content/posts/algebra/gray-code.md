@@ -1,6 +1,6 @@
 ---
-slug: /posts/algebra/gray-code
-discussionId: /posts/algebra/gray-code
+slug: /algebra/gray-code
+discussionId: /algebra/gray-code
 title: Gray Code
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

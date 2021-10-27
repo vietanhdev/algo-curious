@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/pruefer-code
-discussionId: /posts/graph/pruefer-code
+slug: /graph/pruefer-code
+discussionId: /graph/pruefer-code
 title: "Prüfer code"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

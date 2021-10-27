@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/lattice-points
-discussionId: /posts/geometry/lattice-points
+slug: /geometry/lattice-points
+discussionId: /geometry/lattice-points
 title: "Lattice points inside non-lattice polygon"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

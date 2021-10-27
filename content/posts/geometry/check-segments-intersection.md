@@ -1,6 +1,6 @@
 ---
-slug: /posts/geometry/check-segments-intersection
-discussionId: /posts/geometry/check-segments-intersection
+slug: /geometry/check-segments-intersection
+discussionId: /geometry/check-segments-intersection
 title: "Check if two segments intersect"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

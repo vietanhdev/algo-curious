@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/mst-kruskal
-discussionId: /posts/graph/mst-kruskal
+slug: /graph/mst-kruskal
+discussionId: /graph/mst-kruskal
 title: "Minimum spanning tree - Kruskal's algorithm"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
@@ -114,7 +114,7 @@ Which means that after iterating over all edges the resulting edge set will be c
 
 ## Improved implementation
 
-We can use the [**Disjoint Set Union** (DSU)](./data_structures/disjoint_set_union.html) data structure to write a faster implementation of the Kruskal's algorithm with the time complexity of about $O(M \log N)$. [This article](./graph/mst_kruskal_with_dsu.html) details such an approach.
+We can use the [**Disjoint Set Union** (DSU)](./data_structures/disjoint_set_union) data structure to write a faster implementation of the Kruskal's algorithm with the time complexity of about $O(M \log N)$. [This article](./graph/mst-kruskal-with-dsu) details such an approach.
 
 ## Practice Problems
 

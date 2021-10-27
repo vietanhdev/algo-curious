@@ -1,6 +1,6 @@
 ---
-slug: /posts/others/maximum-average-segment
-discussionId: /posts/others/maximum-average-segment
+slug: /others/maximum-average-segment
+discussionId: /others/maximum-average-segment
 title: "Search the subarray with the maximum/minimum sum"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27

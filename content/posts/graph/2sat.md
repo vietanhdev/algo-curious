@@ -1,6 +1,6 @@
 ---
-slug: /posts/graph/2sat
-discussionId: /posts/graph/2sat
+slug: /graph/2sat
+discussionId: /graph/2sat
 title: "2-SAT"
 thumbnail: "/img/competitive-programming.svg"
 date: 2021-10-27
